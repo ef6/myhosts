@@ -1,23 +1,126 @@
-#UseCloudflare
-104.27.95.3 rsshub.app
-104.27.95.3 docs.rsshub.app
-104.27.95.3 reimu.net
-104.27.95.3 blog.reimu.net
-104.27.95.3 t66y.com
-104.27.95.3 www.t66y.com
-104.27.95.3 fpie2.com
+# UseCloudflare
+104.22.76.114 rsshub.app
+104.22.76.114 docs.rsshub.app
+104.22.76.114 reimu.net
+104.22.76.114 blog.reimu.net
+104.22.76.114 t66y.com
+104.22.76.114 www.t66y.com
+104.22.76.114 fpie2.com
 
-#fpie2.com
+# Cloudflare
+104.22.76.114 cloudflare.com
+104.22.76.114 www.cloudflare.com
+104.22.76.114 cdnjs.cloudflare.com
+104.22.76.114 api.cloudflare.com
+104.22.76.114 dash.cloudflare.com
+104.22.76.114 platform.dash.cloudflare.com
+104.22.76.114 info.cloudflare.com
+104.22.76.114 sparrow.cloudflare.com
+104.22.76.114 assets.www.cloudflare.com
+104.22.76.114 videodelivery.net
+# Cloudflare
+
+
+# Uplay（育碧
+104.22.76.114 store.ubi.com
+# Uplay
+
+
+# Epic（仅登录时的验证码
+104.22.76.114 client-api.arkoselabs.com
+104.22.76.114 epic-games-api.arkoselabs.com
+104.22.76.114 cdn.arkoselabs.com
+104.22.76.114 prod-ireland.arkoselabs.com
+# Epic
+
+
+# Nexusmods（著名 MOD 分享下载站
+104.22.76.114 www.nexusmods.com
+104.22.76.114 staticdelivery.nexusmods.com
+104.22.76.114 cf-files.nexusmods.com
+104.22.76.114 staticstats.nexusmods.com
+104.22.76.114 users.nexusmods.com
+# Nexusmods
+
+
+# V2ex（非著名技术论坛
+104.22.76.114 v2ex.com
+104.22.76.114 www.v2ex.com
+104.22.76.114 cdn.v2ex.com
+# V2ex
+
+
+# Wallpaper（壁纸网站
+104.22.76.114 wall.alphacoders.com
+104.22.76.114 static.alphacoders.com
+104.22.76.114 images.alphacoders.com
+104.22.76.114 images2.alphacoders.com
+104.22.76.114 images3.alphacoders.com
+104.22.76.114 images4.alphacoders.com
+104.22.76.114 images5.alphacoders.com
+104.22.76.114 images6.alphacoders.com
+104.22.76.114 images7.alphacoders.com
+104.22.76.114 images8.alphacoders.com
+# Wallpaper
+
+
+# hCaptcha（国外著名验证码网站
+104.22.76.114 hcaptcha.com
+104.22.76.114 assets.hcaptcha.com
+104.22.76.114 imgs.hcaptcha.com
+# hCaptcha
+
+
+# Discord（国外著名游戏开黑平台
+104.22.76.114 discord.com
+104.22.76.114 discordapp.com
+104.22.76.114 dl.discordapp.net
+104.22.76.114 gateway.discord.gg
+104.22.76.114 status.discordapp.com
+104.22.76.114 cdn.discordapp.com
+104.22.76.114 media.discordapp.net
+104.22.76.114 images-ext-2.discordapp.net
+104.22.76.114 images-ext-1.discordapp.net
+104.22.76.114 discordcdn.com
+104.22.76.114 support.discordapp.com
+# Discord
+
+
+# Faceit、EasyAntiCheat（提高反作弊程序的更新/加载速度
+104.22.76.114 faceit-client.faceit-cdn.net
+104.22.76.114 anticheat-client.faceit-cdn.net
+104.22.76.114 download-alt.easyanticheat.net
+# Faceit、EasyAntiCheat
+
+
+# GreenManGaming（国外游戏商店
+104.22.76.114 api.greenmangaming.com
+104.22.76.114 images.greenmangaming.com
+104.22.76.114 media.greenmangaming.com
+104.22.76.114 www.greenmangaming.com
+# GreenManGaming
+
+
+# WeMOD（国外游戏修改器平台
+104.22.76.114 www.wemod.com
+104.22.76.114 api.wemod.com
+104.22.76.114 storage-cdn.wemod.com
+104.22.76.114 community.wemod.com
+# WeMOD
+# UseCloudflare
+
+# fpie2.com
 89.187.187.12 video.3p3942.cn
 
-#pixiv.net
+# pixiv.net
 210.140.131.219 pixiv.net
 210.140.131.219 www.pixiv.net
 
-#ipfs
+# ipfs
 209.94.90.1 ipfs.io
 209.94.78.1 docs.ipfs.io
 209.94.78.1 blog.ipfs.io
 
-#outlook
+# outlook
+204.79.197.233 bn1301.storage.live.com
 23.13.191.22 outlook-1.cdn.office.net
