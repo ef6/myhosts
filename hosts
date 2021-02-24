@@ -1,111 +1,123 @@
 # UseCloudflare
-104.22.67.53 rsshub.app
-104.22.67.53 docs.rsshub.app
-104.22.67.53 reimu.net
-104.22.67.53 blog.reimu.net
-104.22.67.53 t66y.com
-104.22.67.53 www.t66y.com
-104.22.67.53 fpie2.com
+172.67.63.233 rsshub.app
+172.67.63.233 docs.rsshub.app
+
+172.67.63.233 reimu.net
+172.67.63.233 blog.reimu.net
+
+172.67.63.233 t66y.com
+172.67.63.233 www.t66y.com
+
+172.67.63.233 fpie2.com
+
+172.67.63.233 busfan.life
+172.67.63.233 www.busfan.life
+172.67.63.233 forum.javcdn.net
+
+172.67.63.233 sugarnb.vip
+172.67.63.233 www.sugarnb.vip
+172.67.63.233 jdbimgs.com
+172.67.63.233 jp.netcdn.space
 
 # Cloudflare
-104.22.67.53 cloudflare.com
-104.22.67.53 www.cloudflare.com
-104.22.67.53 cdnjs.cloudflare.com
-104.22.67.53 api.cloudflare.com
-104.22.67.53 dash.cloudflare.com
-104.22.67.53 platform.dash.cloudflare.com
-104.22.67.53 info.cloudflare.com
-104.22.67.53 sparrow.cloudflare.com
-104.22.67.53 assets.www.cloudflare.com
-104.22.67.53 videodelivery.net
+172.67.63.233 cloudflare.com
+172.67.63.233 www.cloudflare.com
+172.67.63.233 cdnjs.cloudflare.com
+172.67.63.233 api.cloudflare.com
+172.67.63.233 dash.cloudflare.com
+172.67.63.233 platform.dash.cloudflare.com
+172.67.63.233 info.cloudflare.com
+172.67.63.233 sparrow.cloudflare.com
+172.67.63.233 assets.www.cloudflare.com
+172.67.63.233 videodelivery.net
 # Cloudflare
 
 
 # Uplay（育碧
-104.22.67.53 store.ubi.com
+172.67.63.233 store.ubi.com
 # Uplay
 
 
 # Epic（仅登录时的验证码
-104.22.67.53 client-api.arkoselabs.com
-104.22.67.53 epic-games-api.arkoselabs.com
-104.22.67.53 cdn.arkoselabs.com
-104.22.67.53 prod-ireland.arkoselabs.com
+172.67.63.233 client-api.arkoselabs.com
+172.67.63.233 epic-games-api.arkoselabs.com
+172.67.63.233 cdn.arkoselabs.com
+172.67.63.233 prod-ireland.arkoselabs.com
 # Epic
 
 
 # Nexusmods（著名 MOD 分享下载站
-104.22.67.53 www.nexusmods.com
-104.22.67.53 staticdelivery.nexusmods.com
-104.22.67.53 cf-files.nexusmods.com
-104.22.67.53 staticstats.nexusmods.com
-104.22.67.53 users.nexusmods.com
+172.67.63.233 www.nexusmods.com
+172.67.63.233 staticdelivery.nexusmods.com
+172.67.63.233 cf-files.nexusmods.com
+172.67.63.233 staticstats.nexusmods.com
+172.67.63.233 users.nexusmods.com
 # Nexusmods
 
 
 # V2ex（非著名技术论坛
-104.22.67.53 v2ex.com
-104.22.67.53 www.v2ex.com
-104.22.67.53 cdn.v2ex.com
+172.67.63.233 v2ex.com
+172.67.63.233 www.v2ex.com
+172.67.63.233 cdn.v2ex.com
 # V2ex
 
 
 # Wallpaper（壁纸网站
-104.22.67.53 wall.alphacoders.com
-104.22.67.53 static.alphacoders.com
-104.22.67.53 images.alphacoders.com
-104.22.67.53 images2.alphacoders.com
-104.22.67.53 images3.alphacoders.com
-104.22.67.53 images4.alphacoders.com
-104.22.67.53 images5.alphacoders.com
-104.22.67.53 images6.alphacoders.com
-104.22.67.53 images7.alphacoders.com
-104.22.67.53 images8.alphacoders.com
+172.67.63.233 wall.alphacoders.com
+172.67.63.233 static.alphacoders.com
+172.67.63.233 images.alphacoders.com
+172.67.63.233 images2.alphacoders.com
+172.67.63.233 images3.alphacoders.com
+172.67.63.233 images4.alphacoders.com
+172.67.63.233 images5.alphacoders.com
+172.67.63.233 images6.alphacoders.com
+172.67.63.233 images7.alphacoders.com
+172.67.63.233 images8.alphacoders.com
 # Wallpaper
 
 
 # hCaptcha（国外著名验证码网站
-104.22.67.53 hcaptcha.com
-104.22.67.53 assets.hcaptcha.com
-104.22.67.53 imgs.hcaptcha.com
+172.67.63.233 hcaptcha.com
+172.67.63.233 assets.hcaptcha.com
+172.67.63.233 imgs.hcaptcha.com
 # hCaptcha
 
 
 # Discord（国外著名游戏开黑平台
-104.22.67.53 discord.com
-104.22.67.53 discordapp.com
-104.22.67.53 dl.discordapp.net
-104.22.67.53 gateway.discord.gg
-104.22.67.53 status.discordapp.com
-104.22.67.53 cdn.discordapp.com
-104.22.67.53 media.discordapp.net
-104.22.67.53 images-ext-2.discordapp.net
-104.22.67.53 images-ext-1.discordapp.net
-104.22.67.53 discordcdn.com
-104.22.67.53 support.discordapp.com
+172.67.63.233 discord.com
+172.67.63.233 discordapp.com
+172.67.63.233 dl.discordapp.net
+172.67.63.233 gateway.discord.gg
+172.67.63.233 status.discordapp.com
+172.67.63.233 cdn.discordapp.com
+172.67.63.233 media.discordapp.net
+172.67.63.233 images-ext-2.discordapp.net
+172.67.63.233 images-ext-1.discordapp.net
+172.67.63.233 discordcdn.com
+172.67.63.233 support.discordapp.com
 # Discord
 
 
 # Faceit、EasyAntiCheat（提高反作弊程序的更新/加载速度
-104.22.67.53 faceit-client.faceit-cdn.net
-104.22.67.53 anticheat-client.faceit-cdn.net
-104.22.67.53 download-alt.easyanticheat.net
+172.67.63.233 faceit-client.faceit-cdn.net
+172.67.63.233 anticheat-client.faceit-cdn.net
+172.67.63.233 download-alt.easyanticheat.net
 # Faceit、EasyAntiCheat
 
 
 # GreenManGaming（国外游戏商店
-104.22.67.53 api.greenmangaming.com
-104.22.67.53 images.greenmangaming.com
-104.22.67.53 media.greenmangaming.com
-104.22.67.53 www.greenmangaming.com
+172.67.63.233 api.greenmangaming.com
+172.67.63.233 images.greenmangaming.com
+172.67.63.233 media.greenmangaming.com
+172.67.63.233 www.greenmangaming.com
 # GreenManGaming
 
 
 # WeMOD（国外游戏修改器平台
-104.22.67.53 www.wemod.com
-104.22.67.53 api.wemod.com
-104.22.67.53 storage-cdn.wemod.com
-104.22.67.53 community.wemod.com
+172.67.63.233 www.wemod.com
+172.67.63.233 api.wemod.com
+172.67.63.233 storage-cdn.wemod.com
+172.67.63.233 community.wemod.com
 # WeMOD
 # UseCloudflare
 
