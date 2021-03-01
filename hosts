@@ -1,125 +1,104 @@
 # UseCloudflare
-172.67.63.233 rsshub.app
-172.67.63.233 docs.rsshub.app
+104.27.197.155 rsshub.app
+104.27.197.155 docs.rsshub.app
 
-172.67.63.233 reimu.net
-172.67.63.233 blog.reimu.net
+104.27.197.155 reimu.net
+104.27.197.155 cdn.reimu.net
+104.27.197.155 blog.reimu.net
 
-172.67.63.233 t66y.com
-172.67.63.233 www.t66y.com
+104.27.197.155 t66y.com
+104.27.197.155 www.t66y.com
 
-172.67.63.233 fpie2.com
+104.27.197.155 fpie2.com
 
-172.67.63.233 busfan.life
-172.67.63.233 www.busfan.life
-172.67.63.233 forum.javcdn.net
+104.27.197.155 busfan.life
+104.27.197.155 www.busfan.life
+104.27.197.155 forum.javcdn.net
 
-172.67.63.233 sugarnb.vip
-172.67.63.233 www.sugarnb.vip
-172.67.63.233 jdbimgs.com
-172.67.63.233 jp.netcdn.space
+104.27.197.155 sugarnb.vip
+104.27.197.155 www.sugarnb.vip
+104.27.197.155 jdbimgs.com
+104.27.197.155 jp.netcdn.space
 
 # Cloudflare
-172.67.63.233 cloudflare.com
-172.67.63.233 www.cloudflare.com
-172.67.63.233 cdnjs.cloudflare.com
-172.67.63.233 api.cloudflare.com
-172.67.63.233 dash.cloudflare.com
-172.67.63.233 platform.dash.cloudflare.com
-172.67.63.233 info.cloudflare.com
-172.67.63.233 sparrow.cloudflare.com
-172.67.63.233 assets.www.cloudflare.com
-172.67.63.233 videodelivery.net
-# Cloudflare
-
+104.27.197.155 cloudflare.com
+104.27.197.155 www.cloudflare.com
+104.27.197.155 cdnjs.cloudflare.com
+104.27.197.155 api.cloudflare.com
+104.27.197.155 dash.cloudflare.com
+104.27.197.155 platform.dash.cloudflare.com
+104.27.197.155 info.cloudflare.com
+104.27.197.155 sparrow.cloudflare.com
+104.27.197.155 assets.www.cloudflare.com
+104.27.197.155 videodelivery.net
 
 # Uplay（育碧
-172.67.63.233 store.ubi.com
-# Uplay
-
+104.27.197.155 store.ubi.com
 
 # Epic（仅登录时的验证码
-172.67.63.233 client-api.arkoselabs.com
-172.67.63.233 epic-games-api.arkoselabs.com
-172.67.63.233 cdn.arkoselabs.com
-172.67.63.233 prod-ireland.arkoselabs.com
-# Epic
-
+104.27.197.155 client-api.arkoselabs.com
+104.27.197.155 epic-games-api.arkoselabs.com
+104.27.197.155 cdn.arkoselabs.com
+104.27.197.155 prod-ireland.arkoselabs.com
 
 # Nexusmods（著名 MOD 分享下载站
-172.67.63.233 www.nexusmods.com
-172.67.63.233 staticdelivery.nexusmods.com
-172.67.63.233 cf-files.nexusmods.com
-172.67.63.233 staticstats.nexusmods.com
-172.67.63.233 users.nexusmods.com
-# Nexusmods
-
+104.27.197.155 www.nexusmods.com
+104.27.197.155 staticdelivery.nexusmods.com
+104.27.197.155 cf-files.nexusmods.com
+104.27.197.155 staticstats.nexusmods.com
+104.27.197.155 users.nexusmods.com
 
 # V2ex（非著名技术论坛
-172.67.63.233 v2ex.com
-172.67.63.233 www.v2ex.com
-172.67.63.233 cdn.v2ex.com
-# V2ex
-
+104.27.197.155 v2ex.com
+104.27.197.155 www.v2ex.com
+104.27.197.155 cdn.v2ex.com
 
 # Wallpaper（壁纸网站
-172.67.63.233 wall.alphacoders.com
-172.67.63.233 static.alphacoders.com
-172.67.63.233 images.alphacoders.com
-172.67.63.233 images2.alphacoders.com
-172.67.63.233 images3.alphacoders.com
-172.67.63.233 images4.alphacoders.com
-172.67.63.233 images5.alphacoders.com
-172.67.63.233 images6.alphacoders.com
-172.67.63.233 images7.alphacoders.com
-172.67.63.233 images8.alphacoders.com
-# Wallpaper
-
+104.27.197.155 wall.alphacoders.com
+104.27.197.155 static.alphacoders.com
+104.27.197.155 images.alphacoders.com
+104.27.197.155 images2.alphacoders.com
+104.27.197.155 images3.alphacoders.com
+104.27.197.155 images4.alphacoders.com
+104.27.197.155 images5.alphacoders.com
+104.27.197.155 images6.alphacoders.com
+104.27.197.155 images7.alphacoders.com
+104.27.197.155 images8.alphacoders.com
 
 # hCaptcha（国外著名验证码网站
-172.67.63.233 hcaptcha.com
-172.67.63.233 assets.hcaptcha.com
-172.67.63.233 imgs.hcaptcha.com
-# hCaptcha
-
+104.27.197.155 hcaptcha.com
+104.27.197.155 assets.hcaptcha.com
+104.27.197.155 imgs.hcaptcha.com
 
 # Discord（国外著名游戏开黑平台
-172.67.63.233 discord.com
-172.67.63.233 discordapp.com
-172.67.63.233 dl.discordapp.net
-172.67.63.233 gateway.discord.gg
-172.67.63.233 status.discordapp.com
-172.67.63.233 cdn.discordapp.com
-172.67.63.233 media.discordapp.net
-172.67.63.233 images-ext-2.discordapp.net
-172.67.63.233 images-ext-1.discordapp.net
-172.67.63.233 discordcdn.com
-172.67.63.233 support.discordapp.com
-# Discord
-
+104.27.197.155 discord.com
+104.27.197.155 discordapp.com
+104.27.197.155 dl.discordapp.net
+104.27.197.155 gateway.discord.gg
+104.27.197.155 status.discordapp.com
+104.27.197.155 cdn.discordapp.com
+104.27.197.155 media.discordapp.net
+104.27.197.155 images-ext-2.discordapp.net
+104.27.197.155 images-ext-1.discordapp.net
+104.27.197.155 discordcdn.com
+104.27.197.155 support.discordapp.com
 
 # Faceit、EasyAntiCheat（提高反作弊程序的更新/加载速度
-172.67.63.233 faceit-client.faceit-cdn.net
-172.67.63.233 anticheat-client.faceit-cdn.net
-172.67.63.233 download-alt.easyanticheat.net
-# Faceit、EasyAntiCheat
-
+104.27.197.155 faceit-client.faceit-cdn.net
+104.27.197.155 anticheat-client.faceit-cdn.net
+104.27.197.155 download-alt.easyanticheat.net
 
 # GreenManGaming（国外游戏商店
-172.67.63.233 api.greenmangaming.com
-172.67.63.233 images.greenmangaming.com
-172.67.63.233 media.greenmangaming.com
-172.67.63.233 www.greenmangaming.com
-# GreenManGaming
-
+104.27.197.155 api.greenmangaming.com
+104.27.197.155 images.greenmangaming.com
+104.27.197.155 media.greenmangaming.com
+104.27.197.155 www.greenmangaming.com
 
 # WeMOD（国外游戏修改器平台
-172.67.63.233 www.wemod.com
-172.67.63.233 api.wemod.com
-172.67.63.233 storage-cdn.wemod.com
-172.67.63.233 community.wemod.com
-# WeMOD
-# UseCloudflare
+104.27.197.155 www.wemod.com
+104.27.197.155 api.wemod.com
+104.27.197.155 storage-cdn.wemod.com
+104.27.197.155 community.wemod.com
 
 # fpie2.com
 89.187.187.12 video.3p3942.cn
@@ -130,9 +109,20 @@
 
 # ipfs
 209.94.90.1 ipfs.io
-209.94.78.1 docs.ipfs.io
-209.94.78.1 blog.ipfs.io
+209.94.90.1 www.ipfs.io
+209.94.90.1 docs.ipfs.io
+209.94.90.1 blog.ipfs.io
+209.94.90.1 awesome.ipfs.io
 
 # outlook
 204.79.197.233 bn1301.storage.live.com
 23.13.191.22 outlook-1.cdn.office.net
+
+# https://github.com/521xueweihan/GitHub520
+#@ https://cdn.jsdelivr.net/gh/521xueweihan/GitHub520@main/hosts
+
+# https://github.com/yulei88/autohosts
+# https://cdn.jsdelivr.net/gh/yulei88/autohosts@master/data/hosts
+
+# https://github.com/VeleSila/yhosts
+# https://cdn.jsdelivr.net/gh/VeleSila/yhosts@master/hosts
